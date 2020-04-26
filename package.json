@@ -1,0 +1,16 @@
+{
+  "name": "frc-motion-calc",
+  "version": "1.0.0",
+  "description": "Calculate movement statistics for FRC robots from Zebra Motionworks data",
+  "main": "index.js",
+  "dependencies": {
+    "vega": "^5.10.1",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noah Piraino <noahapiraino@gmail.com>",
+  "license": "AGPL-3.0"
+}
