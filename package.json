@@ -4,7 +4,7 @@
   "description": "Calculate movement statistics for FRC robots from Zebra Motionworks data",
   "main": "index.js",
   "dependencies": {
-    "vega": "^5.10.1",
+    "vega": "^5.17.3",
     "yargs": "^15.3.1"
   },
   "devDependencies": {},
